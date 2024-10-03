@@ -7,7 +7,6 @@ title>El Real Madrid es derrotado en champions
 <h1>Una mano de Camavinga cuando el álbitro iba a pitar el final de la primera parte provoco el penal que dio lugar al gol frances y muchas dudas en el Real Madrid
 <p>En la seguanda parte el, Real Madrid recibio la inesperada visita de Mbappe
   El fances viajo asta el norte de Fancia para ver a su hermano, jugador de Lille.
-  pero tuvo que vestirse de corto para ver su primera gran prueba y fallo>
    </head>
    <body>
    <img src="image.jpg" width="350" heijht="250" alt=
